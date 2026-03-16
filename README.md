@@ -110,7 +110,9 @@ After exporting, a file MarvellousStudyTracker.csv will be generated.
 Example:
 
 Date,Subject,Duration,Description
+<br>
 2026-03-10,Java,2.5,OOP concepts practice
+<br>
 2026-03-10,Python,1.5,List comprehension
 
 This file can be opened in:
