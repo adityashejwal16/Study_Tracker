@@ -4,7 +4,9 @@ A simple console-based Study Tracking Application developed in Java that helps s
 
 The application allows users to log study sessions, view study history, generate summaries, and export study data to a CSV file for future analysis.
 
-🧠 Project Overview
+---
+
+## 🧠 Project Overview
 
 Marvellous Study Tracker is a command-line Java application designed to help students maintain discipline in their study routine.
 
@@ -20,7 +22,9 @@ The system records important details like:
 
 It stores all logs in memory and allows users to view, analyze, and export study reports.
 
-⚙️ Technologies Used
+---
+
+## ⚙️ Technologies Used
 
 ☕ Java – Core Programming Language
 
@@ -32,19 +36,9 @@ It stores all logs in memory and allows users to view, analyze, and export study
 
 🖥 Console I/O – User Interaction
 
-📂 Project Structure
+---
 
-StudyTrackerProject
-
-├── StudyLog.java
-
-├── StudyTracker.java
-
-├── Study_Track.java
-
-└── MarvellousStudyTracker.csv (Generated File)
-
-📖 Description
+## 📖 Description
 
 StudyLog
 
