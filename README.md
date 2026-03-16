@@ -38,7 +38,11 @@ It stores all logs in memory and allows users to view, analyze, and export study
 
 ## 📖 Description
 
-StudyLog
+| Class  |  Descriptio |
+|----------|---------------|
+| StudyLog | Represents a single study session |
+| StudyTracker | Handles all operations like insert study log, display log, export data, summaries |
+|  Study_Track |  Main class containing program execution |
 
 Represents a single study session.
 
