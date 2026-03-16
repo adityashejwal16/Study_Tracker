@@ -1,10 +1,12 @@
+.
+
 # 📚 Marvellous Study Tracker (Java)
 
 A simple console-based Study Tracking Application developed in Java that helps students record and manage their daily study activities.
 
 The application allows users to log study sessions, view study history, generate summaries, and export study data to a CSV file for future analysis.
 
-## 🧠 Project Overview
+🧠 Project Overview
 
 Marvellous Study Tracker is a command-line Java application designed to help students maintain discipline in their study routine.
 
@@ -21,32 +23,60 @@ The system records important details like:
 It stores all logs in memory and allows users to view, analyze, and export study reports.
 
 ⚙️ Technologies Used
-Technology	Purpose
-☕ Java	Core Programming Language
-📚 Java Collections (ArrayList, TreeMap)	Data Storage & Summaries
-📅 LocalDate API	Handling Study Dates
-📂 FileWriter	Exporting data to CSV file
-🖥 Console I/O	User Interaction
+
+☕ Java – Core Programming Language
+
+📚 Java Collections (ArrayList, TreeMap) – Data Storage & Summaries
+
+📅 LocalDate API – Handling Study Dates
+
+📂 FileWriter – Exporting data to CSV file
+
+🖥 Console I/O – User Interaction
+
 📂 Project Structure
+
 StudyTrackerProject
-│
+
 ├── StudyLog.java
+
 ├── StudyTracker.java
+
 ├── Study_Track.java
-│
+
 └── MarvellousStudyTracker.csv (Generated File)
-Description
-Class	Description
-StudyLog	Represents a single study session
-StudyTracker	Handles all operations like insert, display, export, summaries
-Study_Track	Main class containing program execution
+
+📖 Description
+
+StudyLog
+Represents a single study session.
+
+StudyTracker
+Handles all operations like:
+
+Insert study logs
+
+Display logs
+
+Export data
+
+Generate summaries
+
+Study_Track
+Main class containing the program execution and menu system.
+
 🚀 Features
 
 ✅ Add new study log
+
 ✅ View all study logs
+
 ✅ Export logs to CSV file
+
 ✅ Summary of total study hours by date
+
 ✅ Summary of total study hours by subject
+
 ✅ Simple menu-driven console interface
 
 📊 Menu Options
@@ -54,16 +84,26 @@ Study_Track	Main class containing program execution
 When the program runs, the user sees the following menu:
 
 1 : Insert new study log
+
 2 : View all study log
+
 3 : Export study log to CSV file
+
 4 : Summary of study log by date
+
 5 : Summary of study log by subject
+
 6 : Exit the application
+
 💻 How to Run the Project
-1️⃣ Compile the Program
+Compile the Program
+
 javac Study_Track.java
-2️⃣ Run the Program
+
+Run the Program
+
 java Study_Track
+
 📄 CSV Export Example
 
 After exporting, a file MarvellousStudyTracker.csv will be generated.
@@ -71,7 +111,9 @@ After exporting, a file MarvellousStudyTracker.csv will be generated.
 Example:
 
 Date,Subject,Duration,Description
+
 2026-03-10,Java,2.5,OOP concepts practice
+
 2026-03-10,Python,1.5,List comprehension
 
 This file can be opened in:
@@ -83,8 +125,11 @@ Google Sheets
 LibreOffice
 
 📈 Example Output
+
 2026-03-14 | Java | 2.0 | Studied File Handling
+
 2026-03-14 | Python | 1.5 | Practiced Functions
+
 🔍 Functional Modules
 📘 Study Log Management
 
