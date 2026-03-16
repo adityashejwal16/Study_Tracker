@@ -1,6 +1,4 @@
-.
-
-# 📚 Marvellous Study Tracker (Java)
+📚 Marvellous Study Tracker (Java)
 
 A simple console-based Study Tracking Application developed in Java that helps students record and manage their daily study activities.
 
@@ -49,10 +47,12 @@ StudyTrackerProject
 📖 Description
 
 StudyLog
+
 Represents a single study session.
 
 StudyTracker
-Handles all operations like:
+
+Handles all operations such as:
 
 Insert study logs
 
@@ -63,7 +63,8 @@ Export data
 Generate summaries
 
 Study_Track
-Main class containing the program execution and menu system.
+
+Main class that contains the program execution and menu-driven system.
 
 🚀 Features
 
@@ -84,26 +85,16 @@ Main class containing the program execution and menu system.
 When the program runs, the user sees the following menu:
 
 1 : Insert new study log
-
 2 : View all study log
-
 3 : Export study log to CSV file
-
 4 : Summary of study log by date
-
 5 : Summary of study log by subject
-
 6 : Exit the application
-
 💻 How to Run the Project
 Compile the Program
-
 javac Study_Track.java
-
 Run the Program
-
 java Study_Track
-
 📄 CSV Export Example
 
 After exporting, a file MarvellousStudyTracker.csv will be generated.
@@ -111,9 +102,7 @@ After exporting, a file MarvellousStudyTracker.csv will be generated.
 Example:
 
 Date,Subject,Duration,Description
-
 2026-03-10,Java,2.5,OOP concepts practice
-
 2026-03-10,Python,1.5,List comprehension
 
 This file can be opened in:
@@ -125,11 +114,8 @@ Google Sheets
 LibreOffice
 
 📈 Example Output
-
 2026-03-14 | Java | 2.0 | Studied File Handling
-
 2026-03-14 | Python | 1.5 | Practiced Functions
-
 🔍 Functional Modules
 📘 Study Log Management
 
