@@ -27,15 +27,15 @@ It stores all logs in memory and allows users to view, analyze, and export study
 ## ⚙️ Technologies Used
 
 | Technology  |  Purpose |
-|-------------|-----------|
+|--------------|----------------------|
 | ☕ Java | Core Programming Language |
-
+|
 | 📚 Java Collections (ArrayList, TreeMap)  | Data Storage & Summaries |
-
+|
 | 📅 LocalDate API | Handling Study Dates |
-
+|
 | 📂 FileWriter | Exporting data to CSV file |
-
+|
 | 🖥 Console I/O | User Interaction |
 
 ---
