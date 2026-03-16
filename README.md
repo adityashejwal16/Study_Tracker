@@ -49,17 +49,17 @@ It stores all logs in memory and allows users to view, analyze, and export study
 
 ## 🚀 Features
 
-•  ✅ Add new study log
+✅ Add new study log
 
-•  ✅ View all study logs
+✅ View all study logs
 
-•  ✅ Export logs to CSV file
+✅ Export logs to CSV file
 
-•  ✅ Summary of total study hours by date
+✅ Summary of total study hours by date
 
-•  ✅ Summary of total study hours by subject
+✅ Summary of total study hours by subject
 
-•  ✅ Simple menu-driven console interface
+✅ Simple menu-driven console interface
 
 ---
 
