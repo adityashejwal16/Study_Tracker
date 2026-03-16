@@ -48,13 +48,13 @@ StudyTracker
 
 Handles all operations such as:
 
-• Insert study logs
+•  Insert study logs
 
-• Display logs
+•  Display logs
 
-• Export data
+•  Export data
 
-• Generate summaries
+•  Generate summaries
 
 Study_Track
 
@@ -64,17 +64,17 @@ Main class that contains the program execution and menu-driven system.
 
 ## 🚀 Features
 
-• ✅ Add new study log
+•  ✅ Add new study log
 
-• ✅ View all study logs
+•  ✅ View all study logs
 
-• ✅ Export logs to CSV file
+•  ✅ Export logs to CSV file
 
-• ✅ Summary of total study hours by date
+•  ✅ Summary of total study hours by date
 
-• ✅ Summary of total study hours by subject
+•  ✅ Summary of total study hours by subject
 
-• ✅ Simple menu-driven console interface
+•  ✅ Simple menu-driven console interface
 
 ---
 
@@ -117,11 +117,11 @@ Date,Subject,Duration,Description
 
 This file can be opened in:
 
-• Microsoft Excel
+•  Microsoft Excel
 
-• Google Sheets
+•  Google Sheets
 
-• LibreOffice
+•  LibreOffice
 
 ---
 
@@ -151,35 +151,35 @@ Exports all study logs to a CSV file for external analysis.
 
 ## 🛠 Java Concepts Used
 
-• Classes & Objects
+•  Classes & Objects
 
-• Encapsulation
+•  Encapsulation
 
-• ArrayList Collection
+•  ArrayList Collection
 
-• TreeMap Collection
+•  TreeMap Collection
 
-•File Handling (FileWriter)
+•  File Handling (FileWriter)
 
-• Date API (LocalDate)
+•  Date API (LocalDate)
 
-• Exception Handling
+•  Exception Handling
 
-• Menu Driven Programming
+•  Menu Driven Programming
 
 ---
 
 ## 🎯 Learning Outcomes
 
-• This project demonstrates:
+•  This project demonstrates:
 
-• Java OOP design
+•  Java OOP design
 
-• File handling
+•  File handling
 
-• Data structures usage
+•  Data structures usage
 
-• Real-world productivity tool development
+•  Real-world productivity tool development
 
 ---
 
