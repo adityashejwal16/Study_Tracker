@@ -1,4 +1,4 @@
-📚 Marvellous Study Tracker (Java)
+# 📚 Marvellous Study Tracker (Java)
 
 A simple console-based Study Tracking Application developed in Java that helps students record and manage their daily study activities.
 
