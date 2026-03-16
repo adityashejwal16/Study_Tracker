@@ -60,7 +60,9 @@ Study_Track
 
 Main class that contains the program execution and menu-driven system.
 
-🚀 Features
+---
+
+## 🚀 Features
 
 ✅ Add new study log
 
@@ -74,7 +76,9 @@ Main class that contains the program execution and menu-driven system.
 
 ✅ Simple menu-driven console interface
 
-📊 Menu Options
+---
+
+## 📊 Menu Options
 
 When the program runs, the user sees the following menu:
 
@@ -84,12 +88,17 @@ When the program runs, the user sees the following menu:
 4 : Summary of study log by date
 5 : Summary of study log by subject
 6 : Exit the application
-💻 How to Run the Project
-Compile the Program
+
+---
+
+## 💻 How to Run the Project
+
+## Compile the Program
 javac Study_Track.java
-Run the Program
+## Run the Program
 java Study_Track
-📄 CSV Export Example
+
+## 📄 CSV Export Example
 
 After exporting, a file MarvellousStudyTracker.csv will be generated.
 
@@ -107,27 +116,32 @@ Google Sheets
 
 LibreOffice
 
-📈 Example Output
+---
+
+## 📈 Example Output
 2026-03-14 | Java | 2.0 | Studied File Handling
 2026-03-14 | Python | 1.5 | Practiced Functions
-🔍 Functional Modules
+
+---
+
+## 🔍 Functional Modules
 📘 Study Log Management
 
 Stores study session details including subject, duration, and description.
 
-📊 Summary by Date
+## 📊 Summary by Date
 
 Calculates total study hours for each day.
 
-📚 Summary by Subject
+## 📚 Summary by Subject
 
 Calculates total study hours spent per subject.
 
-📂 CSV Export
+## 📂 CSV Export
 
 Exports all study logs to a CSV file for external analysis.
 
-🛠 Java Concepts Used
+## 🛠 Java Concepts Used
 
 Classes & Objects
 
@@ -145,7 +159,9 @@ Exception Handling
 
 Menu Driven Programming
 
-🎯 Learning Outcomes
+---
+
+## 🎯 Learning Outcomes
 
 This project demonstrates:
 
@@ -157,7 +173,9 @@ Data structures usage
 
 Real-world productivity tool development
 
-👨‍💻 Author
+---
 
-Aditya Dipak Shejwal
+## 👨‍💻 Author
+
+### Aditya Dipak Shejwal
 🎓 M.Sc Computer Science
