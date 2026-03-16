@@ -83,10 +83,15 @@ Main class that contains the program execution and menu-driven system.
 When the program runs, the user sees the following menu:
 
 1 : Insert new study log
+<br>
 2 : View all study log
+<br>
 3 : Export study log to CSV file
+<br>
 4 : Summary of study log by date
+<br>
 5 : Summary of study log by subject
+<br>
 6 : Exit the application
 
 ---
